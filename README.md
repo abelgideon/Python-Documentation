@@ -31,7 +31,8 @@ This is a simple Python Documentation page created as part of a freeCodeCamp cou
 ### Usage
 
 1. Open the `index.html` file in your preferred web browser to view the Python Documentation page.
-2. Use the navigation bar to explore different sections of the documentation.
+2. Alternatively, you can access the live site [here](https://abelgideon.github.io/Python-Documentation/).
+3. Use the navigation bar to explore different sections of the documentation.
 
 ### File Structure
 
